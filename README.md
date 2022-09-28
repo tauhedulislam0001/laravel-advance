@@ -7,17 +7,26 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Advanced Laravel: 14 Topics and Links to Learn Them
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Link for website : https://laraveldaily.com/post/advanced-laravel-20-topics-and-links-to-learn-Them
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Everyday I have tried to add new advance topic to learn and upload a documentation, This project will be contain everyday my new experience journey
+
+- [Topic 1.Sending emails and notifications]
+- [Topic 2. Queues and Jobs]
+- [Topic 3. Advanced Eloquent and DB Operations]
+- [Topic 4. Advanced Error/Exception Managing and Preventing]
+- [Topic 5. Creating Artisan Commands]
+- [Topic 6. APIs: Resources, Auth and Passport]
+- [Topic 7. Events and Listeners]
+- [Topic 8. Payments and Cashier]
+- [Topic 9. Automated Testing, TDD and Dusk]
+- [Topic 10. Deployment to Servers and Continuous Integration]
+- [Topic 11. Package Development]
+- [Topic 12. Laravel Scout Search and A]l]golia]
+- [Topic 13. Socialite and OAuth]
+- [Topic 14. Vue.js]
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
