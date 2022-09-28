@@ -1,0 +1,6 @@
+Remember to commit everything you've changed before you do this!
+
+git rm -rf --cached .
+git add .
+
+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
